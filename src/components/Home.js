@@ -49,7 +49,7 @@ const Home = () => {
                   href='https://drive.google.com/file/d/1QfTrGYSEA2gFzV_FOcOMIRe9znkhB23g/view?usp=sharing'
                   target='_blank'
                   rel='noopener noreferrer'>
-                  <button> Download CV</button>
+                  <button> View CV</button>
                 </a>
                 {/* <a
                   href='https://www.fiverr.com/hassan_0007?up_rollout=true'
