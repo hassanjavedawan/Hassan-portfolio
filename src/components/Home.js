@@ -51,12 +51,12 @@ const Home = () => {
                   rel='noopener noreferrer'>
                   <button> Download CV</button>
                 </a>
-                <a
+                {/* <a
                   href='https://www.fiverr.com/hassan_0007?up_rollout=true'
                   target='_blank'
                   rel='noopener noreferrer'>
                   <button className='ml-2'>Hire me</button>
-                </a>
+                </a> */}
               </div>
               <div className='col-md-6'>
                 <img

@@ -107,7 +107,7 @@ const Contact = () => {
                   </p>
                   <p className='social-icon'>
                     <a
-                      href='https://www.linkedin.com/in/hassan-javed-4276271aa/'
+                      href='https://www.linkedin.com/in/hassanjavedawan'
                       target='_blank'
                       rel='noopener noreferrer'>
                       <FaLinkedinIn

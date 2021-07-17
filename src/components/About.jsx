@@ -82,7 +82,7 @@ function About() {
 
                 <div className='col-sm'>
                   <strong className='p-2'>Job title</strong>
-                  <br /> Mern Stack Develope
+                  <br /> Mern Stack Developer
                 </div>
               </div>
             </div>

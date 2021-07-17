@@ -11,7 +11,7 @@ const Navbar = () => {
   useEffect(() => {
     scroll.scrollToTop();
   });
-  return (
+  return ( 
     <>
       <div className='navigation-wrap bg-light start-header start-style scroll-on'>
         <div className='container-fluid'>
