@@ -46,7 +46,7 @@ const Home = () => {
                 <h2>I am Hassan - Web & Mobile Application Developer</h2>
                 <a
                   className='nav-link'
-                  href='https://drive.google.com/file/d/1FT-Ijnv-TfFArvT55SbTVaSECJf-6ipx/view?usp=sharing'
+                  href='https://drive.google.com/file/d/1QfTrGYSEA2gFzV_FOcOMIRe9znkhB23g/view?usp=sharing'
                   target='_blank'
                   rel='noopener noreferrer'>
                   <button> Download CV</button>
