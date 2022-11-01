@@ -14,7 +14,7 @@ const Navbar = () => {
   return ( 
     <>
       <div className='navigation-wrap bg-light start-header start-style scroll-on'>
-        <div className='container-fluid'>
+        <div className='container'>
           <nav className='navbar navbar-expand-lg navbar-light'>
             <Link
               activeClass='active'

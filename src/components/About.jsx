@@ -64,14 +64,13 @@ function About() {
             <div className='col-md-7'>
               {/* <h2> About me</h2>{" "} */}
               <p className='mt-3'>
-                I am Hassan an energetic and dedicated professional web & mobile
-                Application Developer. I am always looking for clients who
-                challenge me creatively. I know how to survive in this industry
-                and I want to help your business do the same. I enjoy building
-                everything from small business sites and applications to rich
-                interactive web and mobile apps. if you are a business seeking a
-                web & mobile apps presence or an employer looking to hire, you
-                can get in touch with me here.
+                Full stack web developer with a demonstrated history of working
+                in the computer software industry skilled in JavaScript
+                libraries including React JS, Next JS, Node JS, Express JS,
+                GitHub, Web3.0, Blockchain, etc. Also an accomplished Team
+                leader. I enjoy building everything from small business sites
+                and applications to rich interactive web3.0 and decentralized
+                applications.
               </p>
               <h2>Details</h2>
               <div className='row str p-2'>

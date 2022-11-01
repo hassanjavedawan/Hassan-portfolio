@@ -1,8 +1,8 @@
 /** @format */
 
 import "./App.css";
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
+import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/js/bootstrap.bundle";
 import "antd/dist/antd.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
